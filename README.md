@@ -1,3 +1,13 @@
+# Burger Building App
+Create your dream burger by using this app.
+Prices are clearly displayed for your convenience. 
+
+Disclaimer: You will not actually get a burger. If this app made you hunger, burger recommendations are: Five guys and Bad Daddy's Burger.
+
+Uses React. 
+
+React Guided Inquiry 2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
