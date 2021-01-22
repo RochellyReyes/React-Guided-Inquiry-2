@@ -2,11 +2,11 @@
 Create your dream burger by using this app.
 Prices are clearly displayed for your convenience. 
 
-Disclaimer: You will not actually get a burger. If this app made you hunger, burger recommendations are: Five guys and Bad Daddy's Burger.
-
-Uses React. 
+Disclaimer: You will not actually get a burger. If this app made you hungry, my recommendations are: Five guys and Bad Daddy's Burger.
 
 React Guided Inquiry 2
+
+Uses React. 
 
 # Getting Started with Create React App
 

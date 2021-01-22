@@ -1,4 +1,4 @@
-import { symbol } from 'prop-types';
+// import { symbol } from 'prop-types';
 import React from 'react';
 import styles from './BuildControl.module.css'
 
